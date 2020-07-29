@@ -4,11 +4,13 @@
  "author":
  {"category":"People and politics","id":"1","image":"https://unsplash.com/photos/S1h3VAEmc9g","name":"John doe"},
  "category":"People and politics",
+  "oid":"1",
  "content":"he Employment and Labour Relations Court has suspended the appointment of Edward Gichana as the new Nairobi County Assembly clerk.\n\nIt had suspended last week’s gazettment of Mr Gichana by Speaker Beatrice Elachi as the new clerk to replace clerk Jacob Ngwele, pending the determination of an application filed in court by Mr Ngwele.\n\nMr Ngwele had gone to court yesterday seeking a conservatory order quashing the appointment of Mr Gichana on July 24, 2020 pending hearing and determination of his suit.",
  "date":"Mar 2, 3920 12:00:00 AM","id":"1","image":"https://i.imgur.com/vKS7SPw.jpg","title":"Court suspends Edward Gichana\u0027s appointment as Nairobi Clerk"},
   {"author":
   {"category":"People and politics","id":"2","image":"https://unsplash.com/photos/S1h3VAEmc9g","name":"Alexa Moore"},"category":
   "People and politics",
+   "oid":"2",
   "content":"he Employment and Labour Relations Court has suspended the appointment of Edward Gichana as the new Nairobi County Assembly clerk.\n\nIt had suspended last week’s gazettment of Mr Gichana by Speaker Beatrice Elachi as the new clerk to replace clerk Jacob Ngwele, pending the determination of an application filed in court by Mr Ngwele.\n\nMr Ngwele had gone to court yesterday seeking a conservatory order quashing the appointment of Mr Gichana on July 24, 2020 pending hearing and determination of his suit.",
   "date":"Mar 2, 3920 12:00:00 AM",
   "id":"2",
@@ -17,6 +19,7 @@
    {"author":
    {"category":"People and politics","id":"3","image":"https://unsplash.com/photos/S1h3VAEmc9g","name":"Cynthia Harris"},
    "category":"People and politics",
+    "oid":"3",
    "content":"he Employment and Labour Relations Court has suspended the appointment of Edward Gichana as the new Nairobi County Assembly clerk.\n\nIt had suspended last week’s gazettment of Mr Gichana by Speaker Beatrice Elachi as the new clerk to replace clerk Jacob Ngwele, pending the determination of an application filed in court by Mr Ngwele.\n\nMr Ngwele had gone to court yesterday seeking a conservatory order quashing the appointment of Mr Gichana on July 24, 2020 pending hearing and determination of his suit.",
    "date":"Mar 2, 3920 12:00:00 AM",
    "id":"3","image":"https://i.imgur.com/Ck01hEt.jpg/",
