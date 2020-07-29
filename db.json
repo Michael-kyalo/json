@@ -23,6 +23,8 @@
    "title":"hasellus in luctus augue. Ut eleifend commodo porttitor. Vivamus congue consectetur mi, vel dictum sem convallis at"}
 ],
   "authors":[
-    {"category":"People and politics","id":"1","image":"https://unsplash.com/photos/S1h3VAEmc9g","name":"John doe"}
+    {"category":"People and politics","id":"1","image":"https://unsplash.com/photos/S1h3VAEmc9g","name":"John doe"},
+   {"category":"People and politics","id":"2","image":"https://unsplash.com/photos/S1h3VAEmc9g","name":"Alexa Moore"},
+     {"category":"People and politics","id":"3","image":"https://unsplash.com/photos/S1h3VAEmc9g","name":"Cynthia Harris"}
   ]
 }
